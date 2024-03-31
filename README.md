@@ -1,1 +1,1 @@
-Online Learning Platoform
+Online Learning Platform
